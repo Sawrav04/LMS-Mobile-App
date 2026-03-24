@@ -9,7 +9,7 @@ export const API_BASE_URL = __DEV__
   ? `http://${DEV_API_HOST}:3001`
   : "https://your-api.example.com";
 
-export const SUPABASE_URL = "https://urzqaxhseyzmyyfzehhu.supabase.co";
+export const SUPABASE_URL = "";
 
 export const COLORS = {
   primary: "#1E65FF",
